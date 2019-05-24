@@ -1,4 +1,9 @@
 {
+  "name": "wallaby-jest-marbles",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^24.8.0",
     "jest-marbles": "^2.3.1"

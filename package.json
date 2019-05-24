@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "jest-marbles": "^2.3.1"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  }
+}
